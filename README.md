@@ -2,5 +2,4 @@ A retail chain sells electronics and home appliances with stores spread across s
 
 <p data-sourcepos="9:1-9:189" dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiMDdjZmQxNDgtZGE1NS00OGE3LTg4ZGMtZThmYjJiZTc1ZDkyIiwidCI6IjM1ODAxOWMyLWZmMWQtNGRlOC04MDBlLTk2YTRkMzgwNzMwYyIsImMiOjl9&pageName=ReportSection" rel="nofollow">Sales Strategy</a></p>
 
-
-This report was created using a fictitious dataset made available by Data Science Academy
+This report was created using Power BI tool with a fictitious dataset made available by Data Science Academy.
